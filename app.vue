@@ -6,3 +6,5 @@
     </NuxtLayout>
   </div>
 </template>
+
+<!-- made by Fazle Rifat  -->
